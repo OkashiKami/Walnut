@@ -24,3 +24,6 @@
 [submodule "Walnut-Modules/Walnut-Networking"]
 	path = Walnut-Modules/Walnut-Networking
 	url = https://github.com/StudioCherno/Walnut-Networking
+[submodule "vendor/glslang"]
+	path = vendor/glslang
+	url = https://github.com/OkashiKami/glslang.git
